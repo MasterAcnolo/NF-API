@@ -49,6 +49,18 @@ app.get('/api/musiques/:id', (req, res) => {
   res.json(musique);
 });
 
+
+/* 
+  Route GET /api/musiques/random
+  Renvoie une musique choisie aléatoirement dans la liste
+*/
+app.get('/api/musiques/random', (req, res) => {
+  const randomIndex = Math.floor(Math.random() * musiques.length);
+  const randomMusique = musiques[randomIndex];
+  res.json(randomMusique);
+});
+
+
 /* 
   Démarrage du serveur sur le port défini
 */
