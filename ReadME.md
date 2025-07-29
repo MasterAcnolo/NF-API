@@ -73,9 +73,11 @@ Edit the musiques.json file and add new entries using the following structure:
 [
   {
     "id": 0,
-    "titre": "Leave Me Alone",
-    "album": "The Search",
-    "annee": 2019
+    "titre": "Title",
+    "album": "Album",
+    "date_sortie": "JJ/MM/YYYY",
+    "duree": "mm:ss",
+    "cover_url": "URL"
   }
 ]
 ```
