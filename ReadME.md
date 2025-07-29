@@ -72,11 +72,11 @@ Edit the musiques.json file and add new entries using the following structure:
 ```json
 [
   {
-    "id": XX,
+    "id": 0,
     "titre": "Leave Me Alone",
     "album": "The Search",
     "annee": 2019
-  },
+  }
 ]
 ```
 
