@@ -214,11 +214,312 @@
     "cover_url": "assets/Mansion.jpg"
   },
   {
-    "id": 26,
+    "id": 25,
     "titre": "Motivated",
     "album": "Mansion (Feat. Fleurie)",
     "date_sortie": "31/03/2015",
     "duree": "4:22",
     "cover_url": "assets/Mansion.jpg"
+  },
+  {
+    "id": 26,
+    "titre": "Notepad",
+    "album": "Mansion (Feat. Fleurie)",
+    "date_sortie": "31/03/2015",
+    "duree": "3:39",
+    "cover_url": "assets/Mansion.jpg"
+  },
+  {
+    "id": 27,
+    "titre": "Turn The Music Up",
+    "album": "Mansion (Feat. Fleurie)",
+    "date_sortie": "31/03/2015",
+    "duree": "3:20",
+    "cover_url": "assets/Mansion.jpg"
+  },
+  {
+    "id": 28,
+    "titre": "Paralyzed",
+    "album": "Mansion (Feat. Fleurie)",
+    "date_sortie": "31/03/2015",
+    "duree": "4:31",
+    "cover_url": "assets/Mansion.jpg"
+  },
+  {
+    "id": 29,
+    "titre": "I'll Keep On (Feat Jeremiah Carlson)",
+    "album": "Mansion (Feat. Fleurie)",
+    "date_sortie": "31/03/2015",
+    "duree": "4:31",
+    "cover_url": "assets/Mansion.jpg"
+  },
+  {
+    "id": 30,
+    "titre": "Can You Hold Me (Feat Britt Nicole)",
+    "album": "Mansion (Feat. Fleurie)",
+    "date_sortie": "31/03/2015",
+    "duree": "3:41",
+    "cover_url": "assets/Mansion.jpg"
+  },
+
+ 
+  
+
+
+  {
+    "id": 31,
+    "titre": "Intro 2",
+    "album": "Therapy Session",
+    "date_sortie": "25/03/2016",
+    "duree": "3:15",
+    "cover_url": "assets/TherapySession.jpg"
+  },
+  {
+    "id": 32,
+    "titre": "Therapy Session",
+    "album": "Therapy Session",
+    "date_sortie": "22/04/2016",
+    "duree": "5:31",
+    "cover_url": "assets/TherapySession.jpg"
+  },
+  {
+    "id": 33,
+    "titre": "I Just Wanna Know",
+    "album": "Therapy Session",
+    "date_sortie": "8/04/2016",
+    "duree": "3:46",
+    "cover_url": "assets/TherapySession.jpg"
+  },
+  {
+    "id": 34,
+    "titre": "How Could You Leave Us",
+    "album": "Therapy Session",
+    "date_sortie": "22/04/2016",
+    "duree": "5:22",
+    "cover_url": "assets/TherapySession.jpg"
+  },
+  {
+    "id": 35,
+    "titre": "Breathe",
+    "album": "Therapy Session",
+    "date_sortie": "22/04/2016",
+    "duree": "4:19",
+    "cover_url": "assets/TherapySession.jpg"
+  },
+  {
+    "id": 36,
+    "titre": "Real",
+    "album": "Therapy Session",
+    "date_sortie": "22/04/2016",
+    "duree": "4:23",
+    "cover_url": "assets/TherapySession.jpg"
+  },
+  {
+    "id": 37,
+    "titre": "Oh Lord",
+    "album": "Therapy Session",
+    "date_sortie": "22/04/2016",
+    "duree": "3:18",
+    "cover_url": "assets/TherapySession.jpg"
+  },
+  {
+    "id": 38,
+    "titre": "I Can Feel It",
+    "album": "Therapy Session",
+    "date_sortie": "22/04/2016",
+    "duree": "3:18",
+    "cover_url": "assets/TherapySession.jpg"
+  },
+  {
+    "id": 39,
+    "titre": "Got You on My Mind",
+    "album": "Therapy Session",
+    "date_sortie": "22/04/2016",
+    "duree": "3:18",
+    "cover_url": "assets/TherapySession.jpg"
+  },
+  {
+    "id": 40,
+    "titre": "Grindin (Feat. Marty)",
+    "album": "Therapy Session",
+    "date_sortie": "22/04/2016",
+    "duree": "4:37",
+    "cover_url": "assets/TherapySession.jpg"
+  },
+  {
+    "id": 41,
+    "titre": "Wish You Wouldn't",
+    "album": "Therapy Session",
+    "date_sortie": "22/04/2016",
+    "duree": "4:46",
+    "cover_url": "assets/TherapySession.jpg"
+  },
+  {
+    "id": 42,
+    "titre": "Statement",
+    "album": "Therapy Session",
+    "date_sortie": "22/04/2016",
+    "duree": "3:10",
+    "cover_url": "assets/TherapySession.jpg"
+  },
+  {
+    "id": 43,
+    "titre": "All i Do",
+    "album": "Therapy Session",
+    "date_sortie": "22/04/2016",
+    "duree": "3:48",
+    "cover_url": "assets/TherapySession.jpg"
+  },
+  {
+    "id": 43,
+    "titre": "Lost in the Moment (Feat. Jonathan Thulin)",
+    "album": "Therapy Session",
+    "date_sortie": "22/04/2016",
+    "duree": "4:02",
+    "cover_url": "assets/TherapySession.jpg"
+  },
+
+
+
+
+  {
+    "id": 44,
+    "titre": "Intro III",
+    "album": "Perception",
+    "date_sortie": "6/10/2017",
+    "duree": "4:28",
+    "cover_url": "assets/Perception.jpg"
+  },
+  {
+    "id": 45,
+    "titre": "Outcast",
+    "album": "Perception",
+    "date_sortie": "2/10/2017",
+    "duree": "5:25",
+    "cover_url": "assets/Perception.jpg"
+  },
+  {
+    "id": 46,
+    "titre": "10 Feet Down (Feat. Ruelle)",
+    "album": "Perception",
+    "date_sortie": "6/10/2017",
+    "duree": "3:37",
+    "cover_url": "assets/Perception.jpg"
+  },
+  {
+    "id": 47,
+    "titre": "Green Lights",
+    "album": "Perception",
+    "date_sortie": "18/08/2017",
+    "duree": "3:01",
+    "cover_url": "assets/Perception.jpg"
+  },
+  {
+    "id": 48,
+    "titre": "Dreams",
+    "album": "Perception",
+    "date_sortie": "6/10/2017",
+    "duree": "3:41",
+    "cover_url": "assets/Perception.jpg"
+  },
+  {
+    "id": 49,
+    "titre": "Let You Down",
+    "album": "Perception",
+    "date_sortie": "14/09/2017",
+    "duree": "3:32",
+    "cover_url": "assets/Perception.jpg"
+  },
+  {
+    "id": 50,
+    "titre": "Destiny",
+    "album": "Perception",
+    "date_sortie": "6/10/2017",
+    "duree": "3:59",
+    "cover_url": "assets/Perception.jpg"
+  },
+  {
+    "id": 51,
+    "titre": "My Life",
+    "album": "Perception",
+    "date_sortie": "6/10/2017",
+    "duree": "3:35",
+    "cover_url": "assets/Perception.jpg"
+  },
+  {
+    "id": 52,
+    "titre": "You're Special",
+    "album": "Perception",
+    "date_sortie": "6/10/2017",
+    "duree": "5:12",
+    "cover_url": "assets/Perception.jpg"
+  },
+  {
+    "id": 53,
+    "titre": "If You Want Love",
+    "album": "Perception",
+    "date_sortie": "22/01/2019",
+    "duree": "3:19",
+    "cover_url": "assets/Perception.jpg"
+  },
+  {
+    "id": 54,
+    "titre": "Remember This",
+    "album": "Perception",
+    "date_sortie": "6/10/2017",
+    "duree": "4:00",
+    "cover_url": "assets/Perception.jpg"
+  },
+  {
+    "id": 55,
+    "titre": "Know",
+    "album": "Perception",
+    "date_sortie": "6/10/2019",
+    "duree": "3:58",
+    "cover_url": "assets/Perception.jpg"
+  },
+  {
+    "id": 56,
+    "titre": "Lie",
+    "album": "Perception",
+    "date_sortie": "17/04/2018",
+    "duree": "3:29",
+    "cover_url": "assets/Perception.jpg"
+  },
+  {
+    "id": 57,
+    "titre": "3 A.M",
+    "album": "Perception",
+    "date_sortie": "6/10/2019",
+    "duree": "3:58",
+    "cover_url": "assets/Perception.jpg"
+  },
+  {
+    "id": 58,
+    "titre": "One Hundred",
+    "album": "Perception",
+    "date_sortie": "6/10/2019",
+    "duree": "3:12",
+    "cover_url": "assets/Perception.jpg"
+  },
+  {
+    "id": 59,
+    "titre": "Outro",
+    "album": "Perception",
+    "date_sortie": "2/08/2019",
+    "duree": "3:32",
+    "cover_url": "assets/Perception.jpg"
+  },
+
+
+
+
+  {
+    "id": 60,
+    "titre": "",
+    "album": "The Search",
+    "date_sortie": "26/07/2019",
+    "duree": "",
+    "cover_url": "assets/TheSearch.jpg"
   },
 ]
