@@ -1,0 +1,418 @@
+[
+  {
+    "id": 1,
+    "titre": "Intro",
+    "album": "Mansion",
+    "date_sortie": "31/03/2015",
+    "duree": "01:21",
+    "cover_url": "https://upload.wikimedia.org/wikipedia/en/1/1c/NF_-_Mansion.png"
+  },
+  {
+    "id": 2,
+    "titre": "Mansion",
+    "album": "Mansion",
+    "date_sortie": "31/03/2015",
+    "duree": "04:42",
+    "cover_url": "https://upload.wikimedia.org/wikipedia/en/1/1c/NF_-_Mansion.png"
+  },
+  {
+    "id": 3,
+    "titre": "All I Have",
+    "album": "Mansion",
+    "date_sortie": "31/03/2015",
+    "duree": "03:50",
+    "cover_url": "https://upload.wikimedia.org/wikipedia/en/1/1c/NF_-_Mansion.png"
+  },
+  {
+    "id": 4,
+    "titre": "Wait",
+    "album": "Mansion",
+    "date_sortie": "31/03/2015",
+    "duree": "03:16",
+    "cover_url": "https://upload.wikimedia.org/wikipedia/en/1/1c/NF_-_Mansion.png"
+  },
+  {
+    "id": 5,
+    "titre": "Face It",
+    "album": "Mansion",
+    "date_sortie": "31/03/2015",
+    "duree": "03:20",
+    "cover_url": "https://upload.wikimedia.org/wikipedia/en/1/1c/NF_-_Mansion.png"
+  },
+  {
+    "id": 6,
+    "titre": "Turn the Music Up",
+    "album": "Mansion",
+    "date_sortie": "31/03/2015",
+    "duree": "04:26",
+    "cover_url": "https://upload.wikimedia.org/wikipedia/en/1/1c/NF_-_Mansion.png"
+  },
+  {
+    "id": 7,
+    "titre": "Wake Up",
+    "album": "Mansion",
+    "date_sortie": "31/03/2015",
+    "duree": "03:44",
+    "cover_url": "https://upload.wikimedia.org/wikipedia/en/1/1c/NF_-_Mansion.png"
+  },
+  {
+    "id": 8,
+    "titre": "I'll Keep On",
+    "album": "Mansion",
+    "date_sortie": "31/03/2015",
+    "duree": "03:44",
+    "cover_url": "https://upload.wikimedia.org/wikipedia/en/1/1c/NF_-_Mansion.png"
+  },
+  {
+    "id": 9,
+    "titre": "All I Have (Reprise)",
+    "album": "Mansion",
+    "date_sortie": "31/03/2015",
+    "duree": "01:17",
+    "cover_url": "https://upload.wikimedia.org/wikipedia/en/1/1c/NF_-_Mansion.png"
+  },
+  {
+    "id": 10,
+    "titre": "Stop Me",
+    "album": "Mansion",
+    "date_sortie": "31/03/2015",
+    "duree": "03:39",
+    "cover_url": "https://upload.wikimedia.org/wikipedia/en/1/1c/NF_-_Mansion.png"
+  },
+  {
+    "id": 11,
+    "titre": "I Just Wanna Know",
+    "album": "Therapy Session",
+    "date_sortie": "22/04/2016",
+    "duree": "03:31",
+    "cover_url": "https://upload.wikimedia.org/wikipedia/en/c/cf/Therapy_Session_NF_album_cover.jpg"
+  },
+  {
+    "id": 12,
+    "titre": "Therapy Session",
+    "album": "Therapy Session",
+    "date_sortie": "22/04/2016",
+    "duree": "03:40",
+    "cover_url": "https://upload.wikimedia.org/wikipedia/en/c/cf/Therapy_Session_NF_album_cover.jpg"
+  },
+  {
+    "id": 13,
+    "titre": "Real",
+    "album": "Therapy Session",
+    "date_sortie": "22/04/2016",
+    "duree": "04:17",
+    "cover_url": "https://upload.wikimedia.org/wikipedia/en/c/cf/Therapy_Session_NF_album_cover.jpg"
+  },
+  {
+    "id": 14,
+    "titre": "Only",
+    "album": "Therapy Session",
+    "date_sortie": "22/04/2016",
+    "duree": "04:26",
+    "cover_url": "https://upload.wikimedia.org/wikipedia/en/c/cf/Therapy_Session_NF_album_cover.jpg"
+  },
+  {
+    "id": 15,
+    "titre": "I Miss the Days",
+    "album": "Therapy Session",
+    "date_sortie": "22/04/2016",
+    "duree": "04:12",
+    "cover_url": "https://upload.wikimedia.org/wikipedia/en/c/cf/Therapy_Session_NF_album_cover.jpg"
+  },
+  {
+    "id": 16,
+    "titre": "How Could You Leave Us",
+    "album": "Therapy Session",
+    "date_sortie": "22/04/2016",
+    "duree": "05:15",
+    "cover_url": "https://upload.wikimedia.org/wikipedia/en/c/cf/Therapy_Session_NF_album_cover.jpg"
+  },
+  {
+    "id": 17,
+    "titre": "Got You On My Mind",
+    "album": "Therapy Session",
+    "date_sortie": "22/04/2016",
+    "duree": "03:56",
+    "cover_url": "https://upload.wikimedia.org/wikipedia/en/c/cf/Therapy_Session_NF_album_cover.jpg"
+  },
+  {
+    "id": 18,
+    "titre": "All I Do",
+    "album": "Therapy Session",
+    "date_sortie": "22/04/2016",
+    "duree": "04:08",
+    "cover_url": "https://upload.wikimedia.org/wikipedia/en/c/cf/Therapy_Session_NF_album_cover.jpg"
+  },
+  {
+    "id": 19,
+    "titre": "Grindin",
+    "album": "Therapy Session",
+    "date_sortie": "22/04/2016",
+    "duree": "03:33",
+    "cover_url": "https://upload.wikimedia.org/wikipedia/en/c/cf/Therapy_Session_NF_album_cover.jpg"
+  },
+  {
+    "id": 20,
+    "titre": "I Don’t Care",
+    "album": "Therapy Session",
+    "date_sortie": "22/04/2016",
+    "duree": "04:32",
+    "cover_url": "https://upload.wikimedia.org/wikipedia/en/c/cf/Therapy_Session_NF_album_cover.jpg"
+  },
+  {
+    "id": 21,
+    "titre": "All In",
+    "album": "Therapy Session",
+    "date_sortie": "22/04/2016",
+    "duree": "03:54",
+    "cover_url": "https://upload.wikimedia.org/wikipedia/en/c/cf/Therapy_Session_NF_album_cover.jpg"
+  },
+  {
+    "id": 22,
+    "titre": "Remember This",
+    "album": "Therapy Session",
+    "date_sortie": "22/04/2016",
+    "duree": "04:00",
+    "cover_url": "https://upload.wikimedia.org/wikipedia/en/c/cf/Therapy_Session_NF_album_cover.jpg"
+  },
+  {
+    "id": 23,
+    "titre": "Outro",
+    "album": "Therapy Session",
+    "date_sortie": "22/04/2016",
+    "duree": "02:11",
+    "cover_url": "https://upload.wikimedia.org/wikipedia/en/c/cf/Therapy_Session_NF_album_cover.jpg"
+  },
+  {
+    "id": 24,
+    "titre": "Outcast",
+    "album": "Perception",
+    "date_sortie": "06/10/2017",
+    "duree": "04:03",
+    "cover_url": "https://upload.wikimedia.org/wikipedia/en/7/77/NF_-_Perception.png"
+  },
+  {
+    "id": 25,
+    "titre": "Green Lights",
+    "album": "Perception",
+    "date_sortie": "06/10/2017",
+    "duree": "03:27",
+    "cover_url": "https://upload.wikimedia.org/wikipedia/en/7/77/NF_-_Perception.png"
+  },
+  {
+    "id": 26,
+    "titre": "Let You Down",
+    "album": "Perception",
+    "date_sortie": "06/10/2017",
+    "duree": "03:32",
+    "cover_url": "https://upload.wikimedia.org/wikipedia/en/7/77/NF_-_Perception.png"
+  },
+  {
+    "id": 27,
+    "titre": "Lie",
+    "album": "Perception",
+    "date_sortie": "06/10/2017",
+    "duree": "03:39",
+    "cover_url": "https://upload.wikimedia.org/wikipedia/en/7/77/NF_-_Perception.png"
+  },
+  {
+    "id": 28,
+    "titre": "Lose It",
+    "album": "Perception",
+    "date_sortie": "06/10/2017",
+    "duree": "04:05",
+    "cover_url": "https://upload.wikimedia.org/wikipedia/en/7/77/NF_-_Perception.png"
+  },
+  {
+    "id": 29,
+    "titre": "Why",
+    "album": "Perception",
+    "date_sortie": "06/10/2017",
+    "duree": "03:42",
+    "cover_url": "https://upload.wikimedia.org/wikipedia/en/7/77/NF_-_Perception.png"
+  },
+  {
+    "id": 30,
+    "titre": "Wait",
+    "album": "Perception",
+    "date_sortie": "06/10/2017",
+    "duree": "03:15",
+    "cover_url": "https://upload.wikimedia.org/wikipedia/en/7/77/NF_-_Perception.png"
+  },
+  {
+    "id": 31,
+    "titre": "No Name",
+    "album": "Single",
+    "date_sortie": "22/06/2018",
+    "duree": "03:45",
+    "cover_url": "https://upload.wikimedia.org/wikipedia/en/e/e0/NF_-_No_Name_single_cover.jpg"
+  },
+  {
+    "id": 32,
+    "titre": "Warm Up",
+    "album": "Warm UP",
+    "date_sortie": "2015",
+    "duree": "04:00",
+    "cover_url": "https://i.scdn.co/image/ab67616d0000b273da3d44b3f0aabc8f9d3b4159"
+  },
+  {
+    "id": 33,
+    "titre": "The Search",
+    "album": "The Search",
+    "date_sortie": "26/07/2019",
+    "duree": "04:24",
+    "cover_url": "https://upload.wikimedia.org/wikipedia/en/f/f9/The_Search_-_NF.jpg"
+  },
+  {
+    "id": 34,
+    "titre": "Change",
+    "album": "The Search",
+    "date_sortie": "26/07/2019",
+    "duree": "03:44",
+    "cover_url": "https://upload.wikimedia.org/wikipedia/en/f/f9/The_Search_-_NF.jpg"
+  },
+  {
+    "id": 35,
+    "titre": "When I Grow Up",
+    "album": "The Search",
+    "date_sortie": "26/07/2019",
+    "duree": "03:48",
+    "cover_url": "https://upload.wikimedia.org/wikipedia/en/f/f9/The_Search_-_NF.jpg"
+  },
+  {
+    "id": 36,
+    "titre": "Start Over",
+    "album": "The Search",
+    "date_sortie": "26/07/2019",
+    "duree": "04:13",
+    "cover_url": "https://upload.wikimedia.org/wikipedia/en/f/f9/The_Search_-_NF.jpg"
+  },
+  {
+    "id": 37,
+    "titre": "Beautiful Addiction",
+    "album": "The Search",
+    "date_sortie": "26/07/2019",
+    "duree": "03:45",
+    "cover_url": "https://upload.wikimedia.org/wikipedia/en/f/f9/The_Search_-_NF.jpg"
+  },
+  {
+    "id": 38,
+    "titre": "Hope",
+    "album": "Hope",
+    "date_sortie": "29/04/2023",
+    "duree": "04:07",
+    "cover_url": "https://upload.wikimedia.org/wikipedia/en/6/6e/NF_-_Hope.png"
+  },
+  {
+    "id": 39,
+    "titre": "Clouds (The Mixtape)",
+    "album": "Clouds",
+    "date_sortie": "26/03/2021",
+    "duree": "00:40",
+    "cover_url": "https://upload.wikimedia.org/wikipedia/en/f/f2/NF_-_Clouds.png"
+  },
+  {
+    "id": 40,
+    "titre": "Paid My Dues",
+    "album": "Clouds",
+    "date_sortie": "26/03/2021",
+    "duree": "03:34",
+    "cover_url": "https://upload.wikimedia.org/wikipedia/en/f/f2/NF_-_Clouds.png"
+  },
+  {
+    "id": 41,
+    "titre": "Chasing_(feat._Felly)",
+    "album": "Clouds",
+    "date_sortie": "26/03/2021",
+    "duree": "03:34",
+    "cover_url": "https://upload.wikimedia.org/wikipedia/en/f/f2/NF_-_Clouds.png"
+  },
+  {
+    "id": 42,
+    "titre": "Lost",
+    "album": "Clouds",
+    "date_sortie": "26/03/2021",
+    "duree": "04:13",
+    "cover_url": "https://upload.wikimedia.org/wikipedia/en/f/f2/NF_-_Clouds.png"
+  },
+  {
+    "id": 43,
+    "titre": "My Stress",
+    "album": "Clouds",
+    "date_sortie": "26/03/2021",
+    "duree": "04:16",
+    "cover_url": "https://upload.wikimedia.org/wikipedia/en/f/f2/NF_-_Clouds.png"
+  },
+  {
+    "id": 44,
+    "titre": "Trust",
+    "album": "Clouds",
+    "date_sortie": "26/03/2021",
+    "duree": "04:16",
+    "cover_url": "https://upload.wikimedia.org/wikipedia/en/f/f2/NF_-_Clouds.png"
+  },
+  {
+    "id": 45,
+    "titre": "Leave Me Alone",
+    "album": "Clouds",
+    "date_sortie": "26/03/2021",
+    "duree": "03:31",
+    "cover_url": "https://upload.wikimedia.org/wikipedia/en/f/f2/NF_-_Clouds.png"
+  },
+  {
+    "id": 46,
+    "titre": "Reasons",
+    "album": "Clouds",
+    "date_sortie": "26/03/2021",
+    "duree": "03:51",
+    "cover_url": "https://upload.wikimedia.org/wikipedia/en/f/f2/NF_-_Clouds.png"
+  },
+  {
+    "id": 47,
+    "titre": "Can't Break Me Down",
+    "album": "Clouds",
+    "date_sortie": "26/03/2021",
+    "duree": "03:25",
+    "cover_url": "https://upload.wikimedia.org/wikipedia/en/f/f2/NF_-_Clouds.png"
+  },
+  {
+    "id": 48,
+    "titre": "Trust",
+    "album": "Clouds",
+    "date_sortie": "26/03/2021",
+    "duree": "04:16",
+    "cover_url": "https://upload.wikimedia.org/wikipedia/en/f/f2/NF_-_Clouds.png"
+  },
+  {
+    "id": 49,
+    "titre": "I Miss The Days (Single Version)",
+    "album": "Single",
+    "date_sortie": "22/06/2018",
+    "duree": "04:12",
+    "cover_url": "https://upload.wikimedia.org/wikipedia/en/e/e0/NF_-_No_Name_single_cover.jpg"
+  },
+  {
+    "id": 50,
+    "titre": "Only One",
+    "album": "Single",
+    "date_sortie": "23/08/2019",
+    "duree": "03:42",
+    "cover_url": "https://upload.wikimedia.org/wikipedia/en/e/e0/NF_-_No_Name_single_cover.jpg"
+  },
+  {
+    "id": 51,
+    "titre": "Just Being Me",
+    "album": "Single",
+    "date_sortie": "10/08/2018",
+    "duree": "04:15",
+    "cover_url": "https://upload.wikimedia.org/wikipedia/en/e/e0/NF_-_No_Name_single_cover.jpg"
+  },
+  {
+    "id": 52,
+    "titre": "Thing Called Love",
+    "album": "Single",
+    "date_sortie": "08/02/2019",
+    "duree": "03:24",
+    "cover_url": "https://upload.wikimedia.org/wikipedia/en/e/e0/NF_-_No_Name_single_cover.jpg"
+  }
+]

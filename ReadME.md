@@ -83,3 +83,7 @@ Edit the musiques.json file and add new entries using the following structure:
 # 📄 License
 
 Free to use, modify, and share.
+
+# Disclaimer
+
+Made with AI. Because i don't already have the knoweledge to made it alone. Am sorry for that.

@@ -12,7 +12,7 @@ const musiques = JSON.parse(fs.readFileSync('./musiques.json'));
 /* 
   Route GET /api/musiques
   Renvoie la liste complète des musiques, avec filtres possibles via query params :
-  - annee : filtre par année
+  - annee : filtre par année (extrait de date_sortie, format "jj/mm/aaaa")
   - album : filtre par nom d'album (insensible à la casse)
   - titre : filtre par titre de musique (insensible à la casse)
 */
@@ -21,7 +21,12 @@ app.get('/api/musiques', (req, res) => {
   const { annee, album, titre } = req.query;
 
   if (annee) {
-    result = result.filter(m => m.annee === parseInt(annee));
+    // Extraire l'année depuis date_sortie au format "jj/mm/aaaa"
+    result = result.filter(m => {
+      if (!m.date_sortie) return false;
+      const year = m.date_sortie.split('/')[2]; // Ex : "23/08/2019" -> "2019"
+      return year === annee;
+    });
   }
   if (album) {
     result = result.filter(m => m.album.toLowerCase().includes(album.toLowerCase()));
@@ -31,6 +36,16 @@ app.get('/api/musiques', (req, res) => {
   }
 
   res.json(result);
+});
+
+/* 
+  Route GET /api/musiques/random
+  Renvoie une musique choisie aléatoirement dans la liste
+*/
+app.get('/api/musiques/random', (req, res) => {
+  const randomIndex = Math.floor(Math.random() * musiques.length);
+  const randomMusique = musiques[randomIndex];
+  res.json(randomMusique);
 });
 
 /* 
@@ -48,18 +63,6 @@ app.get('/api/musiques/:id', (req, res) => {
 
   res.json(musique);
 });
-
-
-/* 
-  Route GET /api/musiques/random
-  Renvoie une musique choisie aléatoirement dans la liste
-*/
-app.get('/api/musiques/random', (req, res) => {
-  const randomIndex = Math.floor(Math.random() * musiques.length);
-  const randomMusique = musiques[randomIndex];
-  res.json(randomMusique);
-});
-
 
 /* 
   Démarrage du serveur sur le port défini
