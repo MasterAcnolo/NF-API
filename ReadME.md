@@ -57,6 +57,36 @@ Returns a random track
 
 ---
 
+## 🆔 ID Format
+
+Each track has an `id` in the format `XYY`:
+
+- `X` represents the album ID.
+- `YY` represents the track number within that album (with leading zeros if needed).
+
+### Example:
+
+If **"Hope"** is the 1st track on the album **"Hope"**, its ID would be `801`:
+
+- `8` → Album ID for _Hope_
+- `01` → 2nd track in the album
+
+### 🎵 Album ID Reference
+
+| Album                | ID  |
+| -------------------- | --- |
+| Moments              | 1   |
+| NF (EP)              | 2   |
+| Mansion              | 3   |
+| Therapy Session      | 4   |
+| Perception           | 5   |
+| The Search           | 6   |
+| Clouds               | 7   |
+| Hope                 | 8   |
+| Single / Other songs | 9   |
+
+---
+
 ## 🔧 Update dependencies
 
 To update project dependencies:
@@ -82,9 +112,13 @@ Edit the musiques.json file and add new entries using the following structure:
 ]
 ```
 
+---
+
 # 📄 License
 
 Free to use, modify, and share.
+
+---
 
 # Disclaimer
 

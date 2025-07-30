@@ -1,25 +1,3 @@
-/*
-Index of ID:
-
-The ID is in this format: XYY. The X Digit is for the Album. And the YY are for the number 
-inside the track. For example:
-
-- Hope could be in the album "Hope" and have the id 2. Because it's the 2nd music inside this album. His id
-could be 202. For the 2nd Music of the 2nd Album (It's an example) 
-
-
-Here are the index of each album:
-
-  - Moments             ID: 1
-  - NF (EP)             ID: 2
-  - Mansion             ID: 3
-  - Therapy Session     ID: 4
-  - Perception          ID: 5
-  - The Search          ID: 6
-  - Clouds              ID: 7
-  - Hope                ID: 8
-  - Single / Other songs ID:9 
-*/
 [
   
   {
@@ -920,5 +898,5 @@ Here are the index of each album:
     "date_sortie": "12/10/2020",
     "duree": "3:02",
     "cover_url": "assets/Chasing.jpg"
-  },
+  }
 ]
