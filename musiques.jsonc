@@ -717,4 +717,92 @@ Here are the index of each album:
     "duree": "3:50",
     "cover_url": "assets/Clouds.jpg"
   },
+  {
+    "id": 703,
+    "titre": "Just Like You",
+    "album": "Clouds (The Mixtape)",
+    "date_sortie": "26/03/2021",
+    "duree": "4:11",
+    "cover_url": "assets/Clouds.jpg"
+  },
+  {
+    "id": 704,
+    "titre": "Story",
+    "album": "Clouds (The Mixtape)",
+    "date_sortie": "26/03/2021",
+    "duree": "4:40",
+    "cover_url": "assets/Clouds.jpg"
+  },
+  {
+    "id": 705,
+    "titre": "Prideful",
+    "album": "Clouds (The Mixtape)",
+    "date_sortie": "26/03/2021",
+    "duree": "3:26",
+    "cover_url": "assets/Clouds.jpg"
+  },
+  {
+    "id": 706,
+    "titre": "Lost (Feat. Hopsin)",
+    "album": "Clouds (The Mixtape)",
+    "date_sortie": "11/03/2021",
+    "duree": "3:55",
+    "cover_url": "assets/Clouds.jpg"
+  },
+  {
+    "id": 707,
+    "titre": "Layers",
+    "album": "Clouds (The Mixtape)",
+    "date_sortie": "26/03/2021",
+    "duree": "3:15",
+    "cover_url": "assets/Clouds.jpg"
+  },
+  {
+    "id": 708,
+    "titre": "Drifting",
+    "album": "Clouds (The Mixtape)",
+    "date_sortie": "26/03/2021",
+    "duree": "3:20",
+    "cover_url": "assets/Clouds.jpg"
+  },
+  {
+    "id": 709,
+    "titre": "Trust (Feat. Tech N9ne)",
+    "album": "Clouds (The Mixtape)",
+    "date_sortie": "26/03/2021",
+    "duree": "4:24",
+    "cover_url": "assets/Clouds.jpg"
+  },
+  {
+    "id": 710,
+    "titre": "Paid My Dues",
+    "album": "Clouds (The Mixtape)",
+    "date_sortie": "3/12/2019",
+    "duree": "3:32",
+    "cover_url": "assets/Clouds.jpg"
+  },
+  {
+    "id": 711,
+    "titre": "Clouds (Edit)",
+    "album": "Clouds (The Mixtape)",
+    "date_sortie": "26/03/2021",
+    "duree": "3:50",
+    "cover_url": "assets/Clouds.jpg"
+  },
+
+
+
+
+
+
+
+  {
+    "id": 801,
+    "titre": "Hope",
+    "album": "Hope",
+    "date_sortie": "16/02/2023",
+    "duree": "4:24",
+    "cover_url": "assets/Hope.jpg"
+  },
+
 ]
