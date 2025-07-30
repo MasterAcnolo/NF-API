@@ -69,7 +69,7 @@ Each track has an `id` in the format `XYY`:
 If **"Hope"** is the 1st track on the album **"Hope"**, its ID would be `801`:
 
 - `8` → Album ID for _Hope_
-- `01` → 2nd track in the album
+- `01` → 1st track in the album
 
 ### 🎵 Album ID Reference
 
