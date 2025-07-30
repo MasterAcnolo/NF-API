@@ -804,5 +804,121 @@ Here are the index of each album:
     "duree": "4:24",
     "cover_url": "assets/Hope.jpg"
   },
+  {
+    "id": 802,
+    "titre": "Motto",
+    "album": "Hope",
+    "date_sortie": "9/03/2023",
+    "duree": "3:37",
+    "cover_url": "assets/Hope.jpg"
+  },
+  {
+    "id": 803,
+    "titre": "Careful (Feat. Cordae)",
+    "album": "Hope",
+    "date_sortie": "7/04/2023",
+    "duree": "3:29",
+    "cover_url": "assets/Hope.jpg"
+  },
+  {
+    "id": 804,
+    "titre": "Mama",
+    "album": "Hope",
+    "date_sortie": "7/04/2023",
+    "duree": "3:28",
+    "cover_url": "assets/Hope.jpg"
+  },
+  {
+    "id": 805,
+    "titre": "Happy",
+    "album": "Hope",
+    "date_sortie": "7/04/2023",
+    "duree": "4:02",
+    "cover_url": "assets/Hope.jpg"
+  },
+  {
+    "id": 806,
+    "titre": "Pandemonium",
+    "album": "Hope",
+    "date_sortie": "7/04/2023",
+    "duree": "3:17",
+    "cover_url": "assets/Hope.jpg"
+  },
+  {
+    "id": 807,
+    "titre": "Suffice",
+    "album": "Hope",
+    "date_sortie": "7/04/2023",
+    "duree": "4:25",
+    "cover_url": "assets/Hope.jpg"
+  },
+  {
+    "id": 808,
+    "titre": "Gone (Feat. Julia Michaels)",
+    "album": "Hope",
+    "date_sortie": "7/04/2023",
+    "duree": "4:06",
+    "cover_url": "assets/Hope.jpg"
+  },
+  {
+    "id": 809,
+    "titre": "Bullet",
+    "album": "Hope",
+    "date_sortie": "7/04/2023",
+    "duree": "3:42",
+    "cover_url": "assets/Hope.jpg"
+  },
+  {
+    "id": 810,
+    "titre": "Turn My Back",
+    "album": "Hope",
+    "date_sortie": "7/04/2023",
+    "duree": "3:36",
+    "cover_url": "assets/Hope.jpg"
+  },
+  {
+    "id": 811,
+    "titre": "Mistake",
+    "album": "Hope",
+    "date_sortie": "7/04/2023",
+    "duree": "3:36",
+    "cover_url": "assets/Hope.jpg"
+  },
+  {
+    "id": 812,
+    "titre": "Let Em Pray",
+    "album": "Hope",
+    "date_sortie": "7/04/2023",
+    "duree": "3:33",
+    "cover_url": "assets/Hope.jpg"
+  },
+  {
+    "id": 813,
+    "titre": "Running",
+    "album": "Hope",
+    "date_sortie": "7/04/2023",
+    "duree": "4:13",
+    "cover_url": "assets/Hope.jpg"
+  },
 
+
+
+
+
+  {
+    "id": 901,
+    "titre": "NO NAME",
+    "album": "Single",
+    "date_sortie": "19/01/2018",
+    "duree": "3:04",
+    "cover_url": "assets/NoName.jpg"
+  },
+  {
+    "id": 901,
+    "titre": "Chasing_(Demo) (Feat. Mikayla Sippel)",
+    "album": "Single",
+    "date_sortie": "12/10/2020",
+    "duree": "3:02",
+    "cover_url": "assets/Chasing.jpg"
+  },
 ]
