@@ -1,7 +1,7 @@
 const express = require('express');  // Framework Express pour serveur web
 const fs = require('fs');             // Module pour lire les fichiers
 const app = express();
-const port = 3000;
+const port = process.env.PORT || 3000;
 
 /* 
   Chargement des musiques depuis le fichier JSON au démarrage

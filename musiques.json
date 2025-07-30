@@ -560,7 +560,7 @@
     "album": "The Search",
     "date_sortie": "12/07/2019",
     "duree": "4:00",
-    "cover_url": "assets/TheSearch.jpg"
+    "cover_url": "assets/Time.jpg"
   },
   {
     "id": 607,
@@ -648,7 +648,7 @@
     "album": "The Search",
     "date_sortie": "18/06/2019",
     "duree": "3:08",
-    "cover_url": "assets/TheSearch.jpg"
+    "cover_url": "assets/Why.jpg"
   },
   {
     "id": 618,
@@ -672,7 +672,7 @@
     "album": "The Search",
     "date_sortie": "26/07/2019",
     "duree": "3:50",
-    "cover_url": "assets/TheSearch.jpg"
+    "cover_url": "assets/Time.jpg"
   },
 
 
@@ -757,7 +757,7 @@
     "album": "Clouds (The Mixtape)",
     "date_sortie": "3/12/2019",
     "duree": "3:32",
-    "cover_url": "assets/Clouds.jpg"
+    "cover_url": "assets/PaidMyDues.jpg"
   },
   {
     "id": 711,
@@ -892,11 +892,19 @@
     "cover_url": "assets/NoName.jpg"
   },
   {
-    "id": 901,
+    "id": 902,
     "titre": "Chasing_(Demo) (Feat. Mikayla Sippel)",
     "album": "Single",
     "date_sortie": "12/10/2020",
     "duree": "3:02",
     "cover_url": "assets/Chasing.jpg"
+  },
+  {
+    "id": 903,
+    "titre": "Warm Up",
+    "album": "Single",
+    "date_sortie": "21/10/2016",
+    "duree": "3:01",
+    "cover_url": "assets/WarmUp.jpg"
   }
 ]
