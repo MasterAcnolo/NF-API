@@ -5,9 +5,7 @@ const app = express();
 const port = process.env.PORT || 3000;
 
 
-app.use(cors({
-  origin: 'http://127.0.0.1:5500' // ou ton site final
-}));
+app.use(cors());
 /* 
   Chargement des musiques depuis le fichier JSON au démarrage
   Le contenu est stocké dans une variable JS
