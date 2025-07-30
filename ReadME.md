@@ -122,4 +122,4 @@ Free to use, modify, and share.
 
 # Disclaimer
 
-Made with AI. Because i don't already have the knoweledge to made it alone. Am sorry for that.
+Made with AI. Because i don't already have the knoweledge to made real functionnal endpoints. Am sorry for that.
