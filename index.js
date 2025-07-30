@@ -1,8 +1,13 @@
 const express = require('express');  // Framework Express pour serveur web
 const fs = require('fs');             // Module pour lire les fichiers
+const cors = require('cors'); // Pour la sécu
 const app = express();
 const port = process.env.PORT || 3000;
 
+
+app.use(cors({
+  origin: 'http://127.0.0.1:5500' // ou ton site final
+}));
 /* 
   Chargement des musiques depuis le fichier JSON au démarrage
   Le contenu est stocké dans une variable JS
