@@ -5,7 +5,9 @@ const app = express();
 const port = process.env.PORT || 3000;
 
 
-app.use(cors());
+app.use(cors()); // Pour le CORS
+app.use('/api/assets', express.static('assets')); // Pour pouvoir avoir les images 
+
 /* 
   Chargement des musiques depuis le fichier JSON au démarrage
   Le contenu est stocké dans une variable JS
