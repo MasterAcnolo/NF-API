@@ -7,7 +7,7 @@ const port = 3000;
   Chargement des musiques depuis le fichier JSON au démarrage
   Le contenu est stocké dans une variable JS
 */
-const musiques = JSON.parse(fs.readFileSync('./musiques.json'));
+const musiques = JSON.parse(fs.readFileSync('./musiques.jsonc'));
 
 /* 
   Route GET /api/musiques
