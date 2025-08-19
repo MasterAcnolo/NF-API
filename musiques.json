@@ -14,7 +14,7 @@
     "album": "Moments",
     "date_sortie": "29/11/2010",
     "duree": "4:28",
-    "cover_url": "assets/Moments.jpg"
+    "cover_url": "assets/Moments.webp"
   },
   {
     "id": 102,
@@ -22,7 +22,7 @@
     "album": "Moments",
     "date_sortie": "29/11/2010",
     "duree": "4:15",
-    "cover_url": "assets/Moments.jpg"
+    "cover_url": "assets/Moments.webp"
   },
   {
     "id": 103,
@@ -30,7 +30,7 @@
     "album": "Moments",
     "date_sortie": "29/11/2010",
     "duree": "4:28",
-    "cover_url": "assets/Moments.jpg"
+    "cover_url": "assets/Moments.webp"
   },
   {
     "id": 104,
@@ -38,7 +38,7 @@
     "album": "Moments",
     "date_sortie": "29/11/2010",
     "duree": "4:27",
-    "cover_url": "assets/Moments.jpg"
+    "cover_url": "assets/Moments.webp"
   },
   {
     "id": 105,
@@ -46,7 +46,7 @@
     "album": "Moments",
     "date_sortie": "29/11/2010",
     "duree": "5:13",
-    "cover_url": "assets/Moments.jpg"
+    "cover_url": "assets/Moments.webp"
   },
   {
     "id": 106,
@@ -54,7 +54,7 @@
     "album": "Moments",
     "date_sortie": "29/11/2010",
     "duree": "5:39",
-    "cover_url": "assets/Moments.jpg"
+    "cover_url": "assets/Moments.webp"
   },
   {
     "id": 107,
@@ -62,7 +62,7 @@
     "album": "Moments",
     "date_sortie": "29/11/2010",
     "duree": "4:44",
-    "cover_url": "assets/Moments.jpg"
+    "cover_url": "assets/Moments.webp"
   },
   {
     "id": 108,
@@ -70,7 +70,7 @@
     "album": "Moments",
     "date_sortie": "29/11/2010",
     "duree": "5:15",
-    "cover_url": "assets/Moments.jpg"
+    "cover_url": "assets/Moments.webp"
   },
   {
     "id": 109,
@@ -78,7 +78,7 @@
     "album": "Moments",
     "date_sortie": "29/11/2010",
     "duree": "4:30",
-    "cover_url": "assets/Moments.jpg"
+    "cover_url": "assets/Moments.webp"
   },
   {
     "id": 110,
@@ -86,7 +86,7 @@
     "album": "Moments",
     "date_sortie": "29/11/2010",
     "duree": "4:46",
-    "cover_url": "assets/Moments.jpg"
+    "cover_url": "assets/Moments.webp"
   },
   {
     "id": 111,
@@ -94,7 +94,7 @@
     "album": "Moments",
     "date_sortie": "29/11/2010",
     "duree": "4:23",
-    "cover_url": "assets/Moments.jpg"
+    "cover_url": "assets/Moments.webp"
   },
   {
     "id": 112,
@@ -102,7 +102,7 @@
     "album": "Moments",
     "date_sortie": "29/11/2010",
     "duree": "4:57",
-    "cover_url": "assets/Moments.jpg"
+    "cover_url": "assets/Moments.webp"
   },
   {
     "id": 113,
@@ -110,7 +110,7 @@
     "album": "Moments",
     "date_sortie": "29/11/2010",
     "duree": "4:15",
-    "cover_url": "assets/Moments.jpg"
+    "cover_url": "assets/Moments.webp"
   },
 
 
@@ -127,7 +127,7 @@
     "album": "NF (EP)",
     "date_sortie": "15/07/2014",
     "duree": "4:08",
-    "cover_url": "assets/NF.jpg"
+    "cover_url": "assets/NF.webp"
   },
   {
     "id": 202,
@@ -135,7 +135,7 @@
     "album": "NF (EP)",
     "date_sortie": "5/08/2014",
     "duree": "3:53",
-    "cover_url": "assets/NF.jpg"
+    "cover_url": "assets/NF.webp"
   },
   {
     "id": 203,
@@ -143,7 +143,7 @@
     "album": "NF (EP)",
     "date_sortie": "5/08/2014",
     "duree": "3:19",
-    "cover_url": "assets/NF.jpg"
+    "cover_url": "assets/NF.webp"
   },
   {
     "id": 204,
@@ -151,7 +151,7 @@
     "album": "NF (EP)",
     "date_sortie": "5/08/2014",
     "duree": "3:35",
-    "cover_url": "assets/NF.jpg"
+    "cover_url": "assets/NF.webp"
   },
   {
     "id": 205,
@@ -159,7 +159,7 @@
     "album": "NF (EP)",
     "date_sortie": "5/08/2014",
     "duree": "4:54",
-    "cover_url": "assets/NF.jpg"
+    "cover_url": "assets/NF.webp"
   },
   {
     "id": 206,
@@ -167,7 +167,7 @@
     "album": "NF (EP)",
     "date_sortie": "5/08/2014",
     "duree": "3:43",
-    "cover_url": "assets/NF.jpg"
+    "cover_url": "assets/NF.webp"
   },
 
 
@@ -179,7 +179,7 @@
     "album": "Mansion (Feat. Fleurie)",
     "date_sortie": "17/03/2015",
     "duree": "3:20",
-    "cover_url": "assets/Mansion.jpg"
+    "cover_url": "assets/Mansion.webp"
   },
   {
     "id": 302,
@@ -187,7 +187,7 @@
     "album": "Mansion (Feat. Fleurie)",
     "date_sortie": "15/07/2014",
     "duree": "4:09",
-    "cover_url": "assets/Mansion.jpg"
+    "cover_url": "assets/Mansion.webp"
   },
   {
     "id": 303,
@@ -195,7 +195,7 @@
     "album": "Mansion (Feat. Fleurie)",
     "date_sortie": "24/03/2015",
     "duree": "4:02",
-    "cover_url": "assets/Mansion.jpg"
+    "cover_url": "assets/Mansion.webp"
   },
   {
     "id": 304,
@@ -203,7 +203,7 @@
     "album": "Mansion (Feat. Fleurie)",
     "date_sortie": "31/03/2015",
     "duree": "3:53",
-    "cover_url": "assets/Mansion.jpg"
+    "cover_url": "assets/Mansion.webp"
   },
   {
     "id": 305,
@@ -211,7 +211,7 @@
     "album": "Mansion (Feat. Fleurie)",
     "date_sortie": "31/03/2015",
     "duree": "3:40",
-    "cover_url": "assets/Mansion.jpg"
+    "cover_url": "assets/Mansion.webp"
   },
   {
     "id": 306,
@@ -219,7 +219,7 @@
     "album": "Mansion (Feat. Fleurie)",
     "date_sortie": "31/03/2015",
     "duree": "4:22",
-    "cover_url": "assets/Mansion.jpg"
+    "cover_url": "assets/Mansion.webp"
   },
   {
     "id": 307,
@@ -227,7 +227,7 @@
     "album": "Mansion (Feat. Fleurie)",
     "date_sortie": "31/03/2015",
     "duree": "3:39",
-    "cover_url": "assets/Mansion.jpg"
+    "cover_url": "assets/Mansion.webp"
   },
   {
     "id": 308,
@@ -235,7 +235,7 @@
     "album": "Mansion (Feat. Fleurie)",
     "date_sortie": "31/03/2015",
     "duree": "3:20",
-    "cover_url": "assets/Mansion.jpg"
+    "cover_url": "assets/Mansion.webp"
   },
   {
     "id": 309,
@@ -243,7 +243,7 @@
     "album": "Mansion (Feat. Fleurie)",
     "date_sortie": "31/03/2015",
     "duree": "4:31",
-    "cover_url": "assets/Mansion.jpg"
+    "cover_url": "assets/Mansion.webp"
   },
   {
     "id": 310,
@@ -251,7 +251,7 @@
     "album": "Mansion (Feat. Fleurie)",
     "date_sortie": "31/03/2015",
     "duree": "4:31",
-    "cover_url": "assets/Mansion.jpg"
+    "cover_url": "assets/Mansion.webp"
   },
   {
     "id": 311,
@@ -259,7 +259,7 @@
     "album": "Mansion (Feat. Fleurie)",
     "date_sortie": "31/03/2015",
     "duree": "3:41",
-    "cover_url": "assets/Mansion.jpg"
+    "cover_url": "assets/Mansion.webp"
   },
 
  
@@ -272,7 +272,7 @@
     "album": "Therapy Session",
     "date_sortie": "25/03/2016",
     "duree": "3:15",
-    "cover_url": "assets/TherapySession.jpg"
+    "cover_url": "assets/TherapySession.webp"
   },
   {
     "id": 402,
@@ -280,7 +280,7 @@
     "album": "Therapy Session",
     "date_sortie": "22/04/2016",
     "duree": "5:31",
-    "cover_url": "assets/TherapySession.jpg"
+    "cover_url": "assets/TherapySession.webp"
   },
   {
     "id": 403,
@@ -288,7 +288,7 @@
     "album": "Therapy Session",
     "date_sortie": "8/04/2016",
     "duree": "3:46",
-    "cover_url": "assets/TherapySession.jpg"
+    "cover_url": "assets/TherapySession.webp"
   },
   {
     "id": 404,
@@ -296,7 +296,7 @@
     "album": "Therapy Session",
     "date_sortie": "22/04/2016",
     "duree": "5:22",
-    "cover_url": "assets/TherapySession.jpg"
+    "cover_url": "assets/TherapySession.webp"
   },
   {
     "id": 405,
@@ -304,7 +304,7 @@
     "album": "Therapy Session",
     "date_sortie": "22/04/2016",
     "duree": "4:19",
-    "cover_url": "assets/TherapySession.jpg"
+    "cover_url": "assets/TherapySession.webp"
   },
   {
     "id": 406,
@@ -312,7 +312,7 @@
     "album": "Therapy Session",
     "date_sortie": "22/04/2016",
     "duree": "4:23",
-    "cover_url": "assets/TherapySession.jpg"
+    "cover_url": "assets/TherapySession.webp"
   },
   {
     "id": 407,
@@ -320,7 +320,7 @@
     "album": "Therapy Session",
     "date_sortie": "22/04/2016",
     "duree": "3:18",
-    "cover_url": "assets/TherapySession.jpg"
+    "cover_url": "assets/TherapySession.webp"
   },
   {
     "id": 408,
@@ -328,7 +328,7 @@
     "album": "Therapy Session",
     "date_sortie": "22/04/2016",
     "duree": "3:18",
-    "cover_url": "assets/TherapySession.jpg"
+    "cover_url": "assets/TherapySession.webp"
   },
   {
     "id": 409,
@@ -336,7 +336,7 @@
     "album": "Therapy Session",
     "date_sortie": "22/04/2016",
     "duree": "3:18",
-    "cover_url": "assets/TherapySession.jpg"
+    "cover_url": "assets/TherapySession.webp"
   },
   {
     "id": 411,
@@ -344,7 +344,7 @@
     "album": "Therapy Session",
     "date_sortie": "22/04/2016",
     "duree": "4:37",
-    "cover_url": "assets/TherapySession.jpg"
+    "cover_url": "assets/TherapySession.webp"
   },
   {
     "id": 412,
@@ -352,7 +352,7 @@
     "album": "Therapy Session",
     "date_sortie": "22/04/2016",
     "duree": "4:46",
-    "cover_url": "assets/TherapySession.jpg"
+    "cover_url": "assets/TherapySession.webp"
   },
   {
     "id": 413,
@@ -360,7 +360,7 @@
     "album": "Therapy Session",
     "date_sortie": "22/04/2016",
     "duree": "3:10",
-    "cover_url": "assets/TherapySession.jpg"
+    "cover_url": "assets/TherapySession.webp"
   },
   {
     "id": 413,
@@ -368,7 +368,7 @@
     "album": "Therapy Session",
     "date_sortie": "22/04/2016",
     "duree": "3:48",
-    "cover_url": "assets/TherapySession.jpg"
+    "cover_url": "assets/TherapySession.webp"
   },
   {
     "id": 414,
@@ -376,7 +376,7 @@
     "album": "Therapy Session",
     "date_sortie": "22/04/2016",
     "duree": "4:02",
-    "cover_url": "assets/TherapySession.jpg"
+    "cover_url": "assets/TherapySession.webp"
   },
 
 
@@ -388,7 +388,7 @@
     "album": "Perception",
     "date_sortie": "6/10/2017",
     "duree": "4:28",
-    "cover_url": "assets/Perception.jpg"
+    "cover_url": "assets/Perception.webp"
   },
   {
     "id": 502,
@@ -396,7 +396,7 @@
     "album": "Perception",
     "date_sortie": "2/10/2017",
     "duree": "5:25",
-    "cover_url": "assets/Perception.jpg"
+    "cover_url": "assets/Perception.webp"
   },
   {
     "id": 503,
@@ -404,7 +404,7 @@
     "album": "Perception",
     "date_sortie": "6/10/2017",
     "duree": "3:37",
-    "cover_url": "assets/Perception.jpg"
+    "cover_url": "assets/Perception.webp"
   },
   {
     "id": 504,
@@ -412,7 +412,7 @@
     "album": "Perception",
     "date_sortie": "18/08/2017",
     "duree": "3:01",
-    "cover_url": "assets/Perception.jpg"
+    "cover_url": "assets/Perception.webp"
   },
   {
     "id": 505,
@@ -420,7 +420,7 @@
     "album": "Perception",
     "date_sortie": "6/10/2017",
     "duree": "3:41",
-    "cover_url": "assets/Perception.jpg"
+    "cover_url": "assets/Perception.webp"
   },
   {
     "id": 506,
@@ -428,7 +428,7 @@
     "album": "Perception",
     "date_sortie": "14/09/2017",
     "duree": "3:32",
-    "cover_url": "assets/Perception.jpg"
+    "cover_url": "assets/Perception.webp"
   },
   {
     "id": 507,
@@ -436,7 +436,7 @@
     "album": "Perception",
     "date_sortie": "6/10/2017",
     "duree": "3:59",
-    "cover_url": "assets/Perception.jpg"
+    "cover_url": "assets/Perception.webp"
   },
   {
     "id": 508,
@@ -444,7 +444,7 @@
     "album": "Perception",
     "date_sortie": "6/10/2017",
     "duree": "3:35",
-    "cover_url": "assets/Perception.jpg"
+    "cover_url": "assets/Perception.webp"
   },
   {
     "id": 509,
@@ -452,7 +452,7 @@
     "album": "Perception",
     "date_sortie": "6/10/2017",
     "duree": "5:12",
-    "cover_url": "assets/Perception.jpg"
+    "cover_url": "assets/Perception.webp"
   },
   {
     "id": 510,
@@ -460,7 +460,7 @@
     "album": "Perception",
     "date_sortie": "22/01/2019",
     "duree": "3:19",
-    "cover_url": "assets/Perception.jpg"
+    "cover_url": "assets/Perception.webp"
   },
   {
     "id": 511,
@@ -468,7 +468,7 @@
     "album": "Perception",
     "date_sortie": "6/10/2017",
     "duree": "4:00",
-    "cover_url": "assets/Perception.jpg"
+    "cover_url": "assets/Perception.webp"
   },
   {
     "id": 512,
@@ -476,7 +476,7 @@
     "album": "Perception",
     "date_sortie": "6/10/2019",
     "duree": "3:58",
-    "cover_url": "assets/Perception.jpg"
+    "cover_url": "assets/Perception.webp"
   },
   {
     "id": 513,
@@ -484,7 +484,7 @@
     "album": "Perception",
     "date_sortie": "17/04/2018",
     "duree": "3:29",
-    "cover_url": "assets/Perception.jpg"
+    "cover_url": "assets/Perception.webp"
   },
   {
     "id": 514,
@@ -492,7 +492,7 @@
     "album": "Perception",
     "date_sortie": "6/10/2019",
     "duree": "3:58",
-    "cover_url": "assets/Perception.jpg"
+    "cover_url": "assets/Perception.webp"
   },
   {
     "id": 515,
@@ -500,7 +500,7 @@
     "album": "Perception",
     "date_sortie": "6/10/2019",
     "duree": "3:12",
-    "cover_url": "assets/Perception.jpg"
+    "cover_url": "assets/Perception.webp"
   },
   {
     "id": 516,
@@ -508,7 +508,7 @@
     "album": "Perception",
     "date_sortie": "2/08/2019",
     "duree": "3:32",
-    "cover_url": "assets/Perception.jpg"
+    "cover_url": "assets/Perception.webp"
   },
 
 
@@ -520,7 +520,7 @@
     "album": "The Search",
     "date_sortie": "30/05/2019",
     "duree": "4:08",
-    "cover_url": "assets/TheSearch.jpg"
+    "cover_url": "assets/TheSearch.webp"
   },
   {
     "id": 602,
@@ -528,7 +528,7 @@
     "album": "The Search",
     "date_sortie": "26/07/2019",
     "duree": "5:08",
-    "cover_url": "assets/TheSearch.jpg"
+    "cover_url": "assets/TheSearch.webp"
   },
   {
     "id": 603,
@@ -536,7 +536,7 @@
     "album": "The Search",
     "date_sortie": "26/07/2019",
     "duree": "3:54",
-    "cover_url": "assets/TheSearch.jpg"
+    "cover_url": "assets/TheSearch.webp"
   },
   {
     "id": 604,
@@ -544,7 +544,7 @@
     "album": "The Search",
     "date_sortie": "26/07/2019",
     "duree": "4:12",
-    "cover_url": "assets/TheSearch.jpg"
+    "cover_url": "assets/TheSearch.webp"
   },
   {
     "id": 605,
@@ -552,7 +552,7 @@
     "album": "The Search",
     "date_sortie": "26/07/2019",
     "duree": "5:02",
-    "cover_url": "assets/TheSearch.jpg"
+    "cover_url": "assets/TheSearch.webp"
   },
   {
     "id": 606,
@@ -560,7 +560,7 @@
     "album": "The Search",
     "date_sortie": "12/07/2019",
     "duree": "4:00",
-    "cover_url": "assets/Time.jpg"
+    "cover_url": "assets/Time.webp"
   },
   {
     "id": 607,
@@ -568,7 +568,7 @@
     "album": "The Search",
     "date_sortie": "26/07/2019",
     "duree": "3:52",
-    "cover_url": "assets/TheSearch.jpg"
+    "cover_url": "assets/TheSearch.webp"
   },
   {
     "id": 608,
@@ -576,7 +576,7 @@
     "album": "The Search",
     "date_sortie": "27/06/2019",
     "duree": "3:16",
-    "cover_url": "assets/TheSearch.jpg"
+    "cover_url": "assets/TheSearch.webp"
   },
   {
     "id": 609,
@@ -584,7 +584,7 @@
     "album": "The Search",
     "date_sortie": "26/07/2019",
     "duree": "3:45",
-    "cover_url": "assets/TheSearch.jpg"
+    "cover_url": "assets/TheSearch.webp"
   },
   {
     "id": 610,
@@ -592,7 +592,7 @@
     "album": "The Search",
     "date_sortie": "26/07/2019",
     "duree": "4:37",
-    "cover_url": "assets/TheSearch.jpg"
+    "cover_url": "assets/TheSearch.webp"
   },
   {
     "id": 611,
@@ -600,7 +600,7 @@
     "album": "The Search",
     "date_sortie": "26/07/2019",
     "duree": "0:49",
-    "cover_url": "assets/TheSearch.jpg"
+    "cover_url": "assets/TheSearch.webp"
   },
   {
     "id": 612,
@@ -608,7 +608,7 @@
     "album": "The Search",
     "date_sortie": "26/07/2019",
     "duree": "4:20",
-    "cover_url": "assets/TheSearch.jpg"
+    "cover_url": "assets/TheSearch.webp"
   },
   {
     "id": 613,
@@ -616,7 +616,7 @@
     "album": "The Search",
     "date_sortie": "26/07/2019",
     "duree": "4:29",
-    "cover_url": "assets/TheSearch.jpg"
+    "cover_url": "assets/TheSearch.webp"
   },
   {
     "id": 614,
@@ -624,7 +624,7 @@
     "album": "The Search",
     "date_sortie": "26/07/2019",
     "duree": "4:20",
-    "cover_url": "assets/TheSearch.jpg"
+    "cover_url": "assets/TheSearch.webp"
   },
   {
     "id": 615,
@@ -632,7 +632,7 @@
     "album": "The Search",
     "date_sortie": "26/07/2019",
     "duree": "3:27",
-    "cover_url": "assets/TheSearch.jpg"
+    "cover_url": "assets/TheSearch.webp"
   },
   {
     "id": 616,
@@ -640,7 +640,7 @@
     "album": "The Search",
     "date_sortie": "26/07/2019",
     "duree": "3:26",
-    "cover_url": "assets/TheSearch.jpg"
+    "cover_url": "assets/TheSearch.webp"
   },
   {
     "id": 617,
@@ -648,7 +648,7 @@
     "album": "The Search",
     "date_sortie": "18/06/2019",
     "duree": "3:08",
-    "cover_url": "assets/Why.jpg"
+    "cover_url": "assets/Why.webp"
   },
   {
     "id": 618,
@@ -656,7 +656,7 @@
     "album": "The Search",
     "date_sortie": "26/07/2019",
     "duree": "3:12",
-    "cover_url": "assets/TheSearch.jpg"
+    "cover_url": "assets/TheSearch.webp"
   },
   {
     "id": 619,
@@ -664,7 +664,7 @@
     "album": "The Search",
     "date_sortie": "26/07/2019",
     "duree": "4:07",
-    "cover_url": "assets/TheSearch.jpg"
+    "cover_url": "assets/TheSearch.webp"
   },
   {
     "id": 620,
@@ -672,7 +672,7 @@
     "album": "The Search",
     "date_sortie": "26/07/2019",
     "duree": "3:50",
-    "cover_url": "assets/Time.jpg"
+    "cover_url": "assets/Time.webp"
   },
 
 
@@ -685,7 +685,7 @@
     "album": "Clouds (The Mixtape)",
     "date_sortie": "18/02/2021",
     "duree": "4:04",
-    "cover_url": "assets/Clouds.jpg"
+    "cover_url": "assets/Clouds.webp"
   },
   {
     "id": 702,
@@ -693,7 +693,7 @@
     "album": "Clouds (The Mixtape)",
     "date_sortie": "26/03/2021",
     "duree": "3:50",
-    "cover_url": "assets/Clouds.jpg"
+    "cover_url": "assets/Clouds.webp"
   },
   {
     "id": 703,
@@ -701,7 +701,7 @@
     "album": "Clouds (The Mixtape)",
     "date_sortie": "26/03/2021",
     "duree": "4:11",
-    "cover_url": "assets/Clouds.jpg"
+    "cover_url": "assets/Clouds.webp"
   },
   {
     "id": 704,
@@ -709,7 +709,7 @@
     "album": "Clouds (The Mixtape)",
     "date_sortie": "26/03/2021",
     "duree": "4:40",
-    "cover_url": "assets/Clouds.jpg"
+    "cover_url": "assets/Clouds.webp"
   },
   {
     "id": 705,
@@ -717,7 +717,7 @@
     "album": "Clouds (The Mixtape)",
     "date_sortie": "26/03/2021",
     "duree": "3:26",
-    "cover_url": "assets/Clouds.jpg"
+    "cover_url": "assets/Clouds.webp"
   },
   {
     "id": 706,
@@ -725,7 +725,7 @@
     "album": "Clouds (The Mixtape)",
     "date_sortie": "11/03/2021",
     "duree": "3:55",
-    "cover_url": "assets/Clouds.jpg"
+    "cover_url": "assets/Clouds.webp"
   },
   {
     "id": 707,
@@ -733,7 +733,7 @@
     "album": "Clouds (The Mixtape)",
     "date_sortie": "26/03/2021",
     "duree": "3:15",
-    "cover_url": "assets/Clouds.jpg"
+    "cover_url": "assets/Clouds.webp"
   },
   {
     "id": 708,
@@ -741,7 +741,7 @@
     "album": "Clouds (The Mixtape)",
     "date_sortie": "26/03/2021",
     "duree": "3:20",
-    "cover_url": "assets/Clouds.jpg"
+    "cover_url": "assets/Clouds.webp"
   },
   {
     "id": 709,
@@ -749,7 +749,7 @@
     "album": "Clouds (The Mixtape)",
     "date_sortie": "26/03/2021",
     "duree": "4:24",
-    "cover_url": "assets/Clouds.jpg"
+    "cover_url": "assets/Clouds.webp"
   },
   {
     "id": 710,
@@ -757,7 +757,7 @@
     "album": "Clouds (The Mixtape)",
     "date_sortie": "3/12/2019",
     "duree": "3:32",
-    "cover_url": "assets/PaidMyDues.jpg"
+    "cover_url": "assets/PaidMyDues.webp"
   },
   {
     "id": 711,
@@ -765,7 +765,7 @@
     "album": "Clouds (The Mixtape)",
     "date_sortie": "26/03/2021",
     "duree": "3:50",
-    "cover_url": "assets/Clouds.jpg"
+    "cover_url": "assets/Clouds.webp"
   },
 
 
@@ -780,7 +780,7 @@
     "album": "Hope",
     "date_sortie": "16/02/2023",
     "duree": "4:24",
-    "cover_url": "assets/Hope.jpg"
+    "cover_url": "assets/Hope.webp"
   },
   {
     "id": 802,
@@ -788,7 +788,7 @@
     "album": "Hope",
     "date_sortie": "9/03/2023",
     "duree": "3:37",
-    "cover_url": "assets/Hope.jpg"
+    "cover_url": "assets/Hope.webp"
   },
   {
     "id": 803,
@@ -796,7 +796,7 @@
     "album": "Hope",
     "date_sortie": "7/04/2023",
     "duree": "3:29",
-    "cover_url": "assets/Hope.jpg"
+    "cover_url": "assets/Hope.webp"
   },
   {
     "id": 804,
@@ -804,7 +804,7 @@
     "album": "Hope",
     "date_sortie": "7/04/2023",
     "duree": "3:28",
-    "cover_url": "assets/Hope.jpg"
+    "cover_url": "assets/Hope.webp"
   },
   {
     "id": 805,
@@ -812,7 +812,7 @@
     "album": "Hope",
     "date_sortie": "7/04/2023",
     "duree": "4:02",
-    "cover_url": "assets/Hope.jpg"
+    "cover_url": "assets/Hope.webp"
   },
   {
     "id": 806,
@@ -820,7 +820,7 @@
     "album": "Hope",
     "date_sortie": "7/04/2023",
     "duree": "3:17",
-    "cover_url": "assets/Hope.jpg"
+    "cover_url": "assets/Hope.webp"
   },
   {
     "id": 807,
@@ -828,7 +828,7 @@
     "album": "Hope",
     "date_sortie": "7/04/2023",
     "duree": "4:25",
-    "cover_url": "assets/Hope.jpg"
+    "cover_url": "assets/Hope.webp"
   },
   {
     "id": 808,
@@ -836,7 +836,7 @@
     "album": "Hope",
     "date_sortie": "7/04/2023",
     "duree": "4:06",
-    "cover_url": "assets/Hope.jpg"
+    "cover_url": "assets/Hope.webp"
   },
   {
     "id": 809,
@@ -844,7 +844,7 @@
     "album": "Hope",
     "date_sortie": "7/04/2023",
     "duree": "3:42",
-    "cover_url": "assets/Hope.jpg"
+    "cover_url": "assets/Hope.webp"
   },
   {
     "id": 810,
@@ -852,7 +852,7 @@
     "album": "Hope",
     "date_sortie": "7/04/2023",
     "duree": "3:36",
-    "cover_url": "assets/Hope.jpg"
+    "cover_url": "assets/Hope.webp"
   },
   {
     "id": 811,
@@ -860,7 +860,7 @@
     "album": "Hope",
     "date_sortie": "7/04/2023",
     "duree": "3:36",
-    "cover_url": "assets/Hope.jpg"
+    "cover_url": "assets/Hope.webp"
   },
   {
     "id": 812,
@@ -868,7 +868,7 @@
     "album": "Hope",
     "date_sortie": "7/04/2023",
     "duree": "3:33",
-    "cover_url": "assets/Hope.jpg"
+    "cover_url": "assets/Hope.webp"
   },
   {
     "id": 813,
@@ -876,7 +876,7 @@
     "album": "Hope",
     "date_sortie": "7/04/2023",
     "duree": "4:13",
-    "cover_url": "assets/Hope.jpg"
+    "cover_url": "assets/Hope.webp"
   },
 
 
@@ -889,7 +889,7 @@
     "album": "Single",
     "date_sortie": "19/01/2018",
     "duree": "3:04",
-    "cover_url": "assets/NoName.jpg"
+    "cover_url": "assets/NoName.webp"
   },
   {
     "id": 902,
@@ -897,7 +897,7 @@
     "album": "Single",
     "date_sortie": "12/10/2020",
     "duree": "3:02",
-    "cover_url": "assets/Chasing.jpg"
+    "cover_url": "assets/Chasing.webp"
   },
   {
     "id": 903,
@@ -905,6 +905,6 @@
     "album": "Single",
     "date_sortie": "21/10/2016",
     "duree": "3:01",
-    "cover_url": "assets/WarmUp.jpg"
+    "cover_url": "assets/WarmUp.webp"
   }
 ]
