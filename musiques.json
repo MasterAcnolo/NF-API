@@ -880,11 +880,58 @@
   },
 
 
-
+  {
+    "id": 901,
+    "titre": "Fear",
+    "album": "Fear (EP)",
+    "date_sortie": "14/11/2025",
+    "duree": "4:29",
+    "cover_url": "assets/Fear.webp"
+  },
+  {
+    "id": 902,
+    "titre": "Home",
+    "album": "Fear (EP)",
+    "date_sortie": "14/11/2025",
+    "duree": "4:44",
+    "cover_url": "assets/Fear.webp"
+  },
+  {
+    "id": 903,
+    "titre": "Who I Was",
+    "album": "Fear (EP)",
+    "date_sortie": "14/11/2025",
+    "duree": "3:01",
+    "cover_url": "assets/Fear.webp"
+  },
+  {
+    "id": 904,
+    "titre": "Give Me A Reason",
+    "album": "Fear (EP)",
+    "date_sortie": "14/11/2025",
+    "duree": "3:03",
+    "cover_url": "assets/Fear.webp"
+  },
+  {
+    "id": 905,
+    "titre": "Sorry",
+    "album": "Fear (EP)",
+    "date_sortie": "14/11/2025",
+    "duree": "3:12",
+    "cover_url": "assets/Fear.webp"
+  },
+  {
+    "id": 906,
+    "titre": "Washed Up",
+    "album": "Fear (EP)",
+    "date_sortie": "14/11/2025",
+    "duree": "3:19",
+    "cover_url": "assets/Fear.webp"
+  },
 
 
   {
-    "id": 901,
+    "id": 1101,
     "titre": "NO NAME",
     "album": "Single",
     "date_sortie": "19/01/2018",
@@ -892,7 +939,7 @@
     "cover_url": "assets/NoName.webp"
   },
   {
-    "id": 902,
+    "id": 1102,
     "titre": "Chasing_(Demo) (Feat. Mikayla Sippel)",
     "album": "Single",
     "date_sortie": "12/10/2020",
@@ -900,7 +947,7 @@
     "cover_url": "assets/Chasing.webp"
   },
   {
-    "id": 903,
+    "id": 1103,
     "titre": "Warm Up",
     "album": "Single",
     "date_sortie": "21/10/2016",

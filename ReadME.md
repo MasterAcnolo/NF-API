@@ -87,7 +87,8 @@ If **"Hope"** is the 1st track on the album **"Hope"**, its ID would be `801`:
 | The Search           | 6   |
 | Clouds               | 7   |
 | Hope                 | 8   |
-| Single / Other songs | 9   |
+| Fear (EP)            | 9   |
+| Single / Other songs | 11  |
 
 ---
 
@@ -121,9 +122,3 @@ Edit the musiques.json file and add new entries using the following structure:
 # 📄 License
 
 Free to use, modify, and share.
-
----
-
-# Disclaimer
-
-Made with AI. Because i don't already have the knoweledge to made real functionnal endpoints. Am sorry for that.
