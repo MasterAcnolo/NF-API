@@ -6,6 +6,8 @@ Express API to retrieve data about NF's music. Available at:
 https://nf-api-c24p.onrender.com/api/musiques
 ```
 
+Or can be self Hosted:
+
 # Setup
 
 ## Clone the repository
@@ -33,7 +35,13 @@ node index.js
 http://localhost:3000/api/musiques
 ```
 
-## 📌 Endpoints
+You can change the port by editing the `port` constant in index.js
+
+```js
+  const port = process.env.PORT || 3000;
+```
+
+## Endpoints
 
 ### `GET /api/musiques`
 
@@ -61,7 +69,7 @@ Returns a random track
 
 ---
 
-## 🆔 ID Format
+## ID Format
 
 Each track has an `id` in the format `XYY`:
 
@@ -75,7 +83,7 @@ If **"Hope"** is the 1st track on the album **"Hope"**, its ID would be `801`:
 - `8` → Album ID for _Hope_
 - `01` → 1st track in the album
 
-### 🎵 Album ID Reference
+### Album ID Reference
 
 | Album                | ID  |
 | -------------------- | --- |
@@ -92,7 +100,7 @@ If **"Hope"** is the 1st track on the album **"Hope"**, its ID would be `801`:
 
 ---
 
-## 🔧 Update dependencies
+## Update dependencies
 
 To update project dependencies:
 
@@ -100,7 +108,7 @@ To update project dependencies:
 npm update
 ```
 
-## ➕ Add new tracks
+## Add new tracks
 
 Edit the musiques.json file and add new entries using the following structure:
 
@@ -119,6 +127,6 @@ Edit the musiques.json file and add new entries using the following structure:
 
 ---
 
-# 📄 License
+# License
 
 Free to use, modify, and share.
